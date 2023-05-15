@@ -6,7 +6,7 @@ class sum
         int a=20, b=45, c;
         c=a+b;
         System.out.println("The adding two numbers: " +c);
-        link="a.html ";
+        //link="a.html ";
     }
 
 
